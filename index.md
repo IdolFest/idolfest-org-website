@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Welcome!
 ---
 
-Nijiro Events LLC
+Welcome to Nijiro Events
 ==============
 
-Nijiro Events LLC is on a mission to bring entertainment and community to every idol fan in the US! Formed in Washington state in 2021, Nijiro Events currently produces [NW IdolFest](https://nwidolfest.com).
+Nijiro Events LLC is on a mission to bring entertainment and community to every idol fan in the US. Formed in Washington state in 2021, Nijiro Events currently produces [NW IdolFest](https://nwidolfest.com).
 
 Questions? [Get in touch](mailto:contact@nijiroevents.com).
