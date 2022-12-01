@@ -3,9 +3,15 @@ layout: default
 title: Welcome!
 ---
 
-Welcome to Nijiiro Events
+Welcome to The IdolFest Foundation
 ==============
 
-Nijiiro Events LLC is on a mission to bring entertainment and community to every idol fan in the US. Formed in Washington state in 2021, Nijiiro Events currently produces [NW IdolFest](https://nwidolfest.com).
+The IdolFest Foundation is bringing Japanese idol culture to North America.
 
-Questions? [Get in touch](mailto:contact@nijiiroevents.com).
+Our purpose is to create educational gatherings that highlight Japanese idol culture and music. We bring our community together to learn and share our passion for idols; providing a venue for performers, panelists, and industry guests to share their knowledge.
+
+We put on annual events to bring together individuals where we highlight important Japanese cultural traditions and share them with new audiences.
+
+We currently produces [NW IdolFest](https://nwidolfest.com), located in Seattle, WA; and [SC IdolFest](https://scidolfest.com), located in Torrance, CA.
+
+Questions? [Get in touch](mailto:contact@idolfest.org).
